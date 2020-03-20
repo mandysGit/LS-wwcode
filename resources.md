@@ -4,7 +4,7 @@
 
   - **Memory** 🤔
     
-         - [Anki flashcards](https://ankiweb.net/about)
+    - [Anki flashcards](https://ankiweb.net/about)
   - **:hourglass_flowing_sand: Timers**
     - [Toggl](https://toggl.com/) (free)
     - [Clockify](https://clockify.me/) (free)
@@ -32,12 +32,9 @@
 	   - [Ruby Debugger](https://www.tutorialspoint.com/ruby/ruby_debugger.htm) (Built-in Ruby tool that allows you to step through your code - even allows you to start a specific point)
    - **Collaborative coding** :computer:
 	   - [Coderpad](https://coderpad.io) 
-	
-	- [SpaceCraft](http://repl.space/)
-	
-	- [Repl.it Multiuser](https://repl.it/site/blog/multi) 
-	
-	- [Atom Teletype package](https://teletype.atom.io/)
+	   - [SpaceCraft](http://repl.space/)
+	   - [Repl.it Multiuser](https://repl.it/site/blog/multi) 
+	   - [Atom Teletype package](https://teletype.atom.io/)
 	
 	  
 
@@ -68,11 +65,11 @@
 	  - _Full Stack Development (JavaScript focus)_
 - [Soft Skills](https://softskills.audio/)
      - *advice about the non-technical stuff that goes into being a great software developer*
-- **Podcasts on Mastery**
+- **Mastery**
 
      - [The Human Experience Podcast: interview with author Anders Ericsson](https://www.youtube.com/watch?v=OknApA05b2c)
      - [Optimize Interview: Peak with Anders Ericsson](https://www.youtube.com/watch?v=1MsD3mpvJ3M&amp;t=1410s)
-- **Podcasts interviews with Chris**
+- **Podcast interviews with Chris**
   
   - [Learn To Code With Me](https://learntocodewith.me/podcast/fundamentals-first-with-chris-lee/)
     - *Laurence Bradford interviews Chris on his journey into programming,  building launch school, and why you should focus on fundamentals first*
@@ -175,7 +172,7 @@
 
 
 
-  ###Professional Development / Expertise Building
+###Professional Development / Expertise Building
 
   - [Write / Speak / Code](https://www.writespeakcode.com/)
 
@@ -186,7 +183,7 @@
     
 
 
-  ###Volunteer and Mentorship Opportunities to help Younger Folks
+###Volunteer and Mentorship Opportunities to help Younger Folks
 
   - [Girls Who Code](https://girlswhocode.com)
 
