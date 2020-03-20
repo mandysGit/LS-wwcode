@@ -172,7 +172,7 @@
 
 
 
-###Professional Development / Expertise Building
+### Professional Development / Expertise Building
 
   - [Write / Speak / Code](https://www.writespeakcode.com/)
 
@@ -183,7 +183,7 @@
     
 
 
-###Volunteer and Mentorship Opportunities to help Younger Folks
+### Volunteer and Mentorship Opportunities to help Younger Folks
 
   - [Girls Who Code](https://girlswhocode.com)
 
