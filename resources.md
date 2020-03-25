@@ -190,7 +190,8 @@
   
   - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
-
+👩🏽‍💻**Work place tips**
+  - [Get your work recognized: Brag Document - blog article by Julia Evans](https://jvns.ca/blog/brag-documents) 
 
 ### :movie_camera: Movies
 
