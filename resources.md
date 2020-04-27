@@ -17,6 +17,8 @@
     
   - **:book: :pencil: Note taking**
     - [Typora](https://typora.io/) (free)*recommended
+    - [Joplin](https://joplinapp.org/) (free)
+    - [Notion](https://www.notion.so/pricing) (free and paid versions)
     - [Quiver (mac)](https://itunes.apple.com/us/app/quiver-take-better-notes/id866773894) ($9.99)
     - [Evernote](https://evernote.com/) (free)
     - [Boostnote](https://boostnote.io/) (free)
