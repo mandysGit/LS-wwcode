@@ -16,7 +16,7 @@
     - [Structured Procrastination](http://www.structuredprocrastination.com/)
     
   - **:book: :pencil: Note taking**
-    - [Typora](https://typora.io/) (free)*recommended
+    - [Typora](https://typora.io/) (free)
     - [Joplin](https://joplinapp.org/) (free)
     - [Notion](https://www.notion.so/pricing) (free and paid versions)
     - [Quiver (mac)](https://itunes.apple.com/us/app/quiver-take-better-notes/id866773894) ($9.99)
@@ -124,6 +124,11 @@
 
 - [Faster Directory Navigation:](https://docs.google.com/presentation/d/1JRNDZwpOMFtUtMLr7BVulWWARaYn3yPDu-Z8EzmK4Kw/edit?usp=sharing) Dec 19, 2018 by Dana Chen (one of the focused discussion topics)
 
+### Launch School wwcode Alumni Stories 🎓👏
+
+- [Melissa Manousos - Capstone Graduate, Job Search, Additional Resources](https://www.notion.so/Women-s-Group-Questions-4f1654f97f114e6da6e40035068802ef)
+
+- [Juliette Sinibardy - Core Graduate, Job Search, Additional Resources](https://jsinibardy.com/first-weeks-software-engineer)
 
 
 ### Books :books:
