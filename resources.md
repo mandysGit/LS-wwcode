@@ -126,10 +126,9 @@
 
 ### Launch School wwcode Alumni Stories 🎓👏
 
+- [Juliette Sinibardy - Core Graduate, My First Weeks as a Software Engineer](https://jsinibardy.com/first-weeks-software-engineer)
+
 - [Melissa Manousos - Capstone Graduate, Job Search, Additional Resources](https://www.notion.so/Women-s-Group-Questions-4f1654f97f114e6da6e40035068802ef)
-
-- [Juliette Sinibardy - Core Graduate, Job Search, Additional Resources](https://jsinibardy.com/first-weeks-software-engineer)
-
 
 ### Books :books:
 👩🏻‍🔬👩🏼‍🔧👩🏾‍⚕️ **Women and Gender in Tech and STEM** 👩‍🎓👩🏽‍💻
