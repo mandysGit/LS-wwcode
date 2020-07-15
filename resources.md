@@ -1,4 +1,15 @@
-## LS Women's Group Resources 
+# Launch School Women's Group Resources 
+## Table of Contents
+1. [Tools](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#hammer_and_wrench-tools)
+2. [Podcast](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#headphones-podcast)
+3. [Tech Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#microphone-tech-talks)
+4. [Lightning Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#%EF%B8%8F-lightning-talks-speech_balloon)
+5. [Alumni Stories](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#launch-school-wwcode-alumni-stories-)
+6. [Books](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#books-books)
+7. [Movies](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#movie_camera-movies)
+8. [Videos](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#video_camera-videos)
+9. [Professional Development/ Expertise Building](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#professional-development--expertise-building)
+10. [Volunteer and Mentorship](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#volunteer-and-mentorship-opportunities-to-help-younger-folks)
 
 ### :hammer_and_wrench: Tools 
 
