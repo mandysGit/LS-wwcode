@@ -4,7 +4,7 @@
 2. [Podcast](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#headphones-podcast)
 3. [Tech Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#microphone-tech-talks)
 4. [Lightning Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#%EF%B8%8F-lightning-talks-speech_balloon)
-5. [Alumni Stories](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#launch-school-wwcode-alumni-stories-)
+5. [Alumni Stories](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#wwcode-alumni-stories-)
 6. [Books](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#books-books)
 7. [Movies](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#movie_camera-movies)
 8. [Videos](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#video_camera-videos)
@@ -135,7 +135,7 @@
 
 - [Faster Directory Navigation:](https://docs.google.com/presentation/d/1JRNDZwpOMFtUtMLr7BVulWWARaYn3yPDu-Z8EzmK4Kw/edit?usp=sharing) Dec 19, 2018 by Dana Chen (one of the focused discussion topics)
 
-### Launch School wwcode Alumni Stories 🎓👏
+### wwcode Alumni Stories 🎓👏
 
 - [Juliette Sinibardy - Core Graduate, My First Weeks as a Software Engineer](https://jsinibardy.com/first-weeks-software-engineer)
 
