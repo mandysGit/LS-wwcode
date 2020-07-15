@@ -5,7 +5,7 @@
 3. [Tech Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#microphone-tech-talks)
 4. [Lightning Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#%EF%B8%8F-lightning-talks-speech_balloon)
 5. [Alumni Stories](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#wwcode-alumni-stories-)
-6. [The Voices and Experiences of wwcode members]
+6. [The Voices and Experiences of wwcode members](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#the-voices-and-experiences-of-wwcode-members)
 7. [Books](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#books-books)
 8. [Movies](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#movie_camera-movies)
 9. [Videos](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#video_camera-videos)
