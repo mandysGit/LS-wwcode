@@ -5,11 +5,12 @@
 3. [Tech Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#microphone-tech-talks)
 4. [Lightning Talks](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#%EF%B8%8F-lightning-talks-speech_balloon)
 5. [Alumni Stories](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#wwcode-alumni-stories-)
-6. [Books](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#books-books)
-7. [Movies](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#movie_camera-movies)
-8. [Videos](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#video_camera-videos)
-9. [Professional Development/ Expertise Building](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#professional-development--expertise-building)
-10. [Volunteer and Mentorship](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#volunteer-and-mentorship-opportunities-to-help-younger-folks)
+6. [The Voices and Experiences of wwcode members]
+7. [Books](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#books-books)
+8. [Movies](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#movie_camera-movies)
+9. [Videos](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#video_camera-videos)
+10. [Professional Development/ Expertise Building](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#professional-development--expertise-building)
+11. [Volunteer and Mentorship](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#volunteer-and-mentorship-opportunities-to-help-younger-folks)
 
 ### :hammer_and_wrench: Tools 
 
@@ -140,6 +141,16 @@
 - [Juliette Sinibardy - Core Graduate, My First Weeks as a Software Engineer](https://jsinibardy.com/first-weeks-software-engineer)
 
 - [Melissa Manousos - Capstone Graduate, Job Search, Additional Resources](https://www.notion.so/Women-s-Group-Questions-4f1654f97f114e6da6e40035068802ef)
+
+### The Voices and Experiences of wwcode members
+- **RB109**
+  - [Saba's Experience on Taking the RB109 assessment](https://sabaimtiaz.com/blog/2020/7/3/ls-rb109)
+  - [Megan's Tips for RB109 Assessment](https://medium.com/launch-school/launch-school-109-interview-assessment-tips-for-internal-processors-2dfb3b736aaf)
+  - [Megan's Study Guide for RB109](https://docs.google.com/document/d/1DmmqXC1GLADlFoFmvIeZmvvLnO-wP3cPmPvjIe5vbEw/edit)
+- **Coding Videos**
+  - [Felicia Solves Coding Challenges Live](https://www.youtube.com/channel/UCMtqVykGztIYmj7OpFf7oeQ/videos)
+- **Blogs**
+  - [Juliette's Blog about LS Assessments, Programming Concepts, and Job Search](https://jsinibardy.com/)
 
 ### Books :books:
 👩🏻‍🔬👩🏼‍🔧👩🏾‍⚕️ **Women and Gender in Tech and STEM** 👩‍🎓👩🏽‍💻
