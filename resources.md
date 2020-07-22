@@ -136,6 +136,8 @@
 
 - [Faster Directory Navigation:](https://docs.google.com/presentation/d/1JRNDZwpOMFtUtMLr7BVulWWARaYn3yPDu-Z8EzmK4Kw/edit?usp=sharing) Dec 19, 2018 by Dana Chen (one of the focused discussion topics)
 
+- [A conversation about Problem Solving](https://docs.google.com/presentation/d/1ggBYdopt5PfSvucaRwa5IxtDPAtF5FUVOvrFv_JHepI/edit#slide=id.p) July 22, 2020 By Felicia Bacon
+
 ### wwcode Alumni Stories 🎓👏
 
 - [Juliette Sinibardy - Core Graduate, My First Weeks as a Software Engineer](https://jsinibardy.com/first-weeks-software-engineer)
