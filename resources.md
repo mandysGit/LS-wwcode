@@ -143,6 +143,9 @@
 - [Juliette Sinibardy - Core Graduate, My First Weeks as a Software Engineer](https://jsinibardy.com/first-weeks-software-engineer)
 
 - [Melissa Manousos - Capstone Graduate, Job Search, Additional Resources](https://www.notion.so/Women-s-Group-Questions-4f1654f97f114e6da6e40035068802ef)
+	- Additional Resources Melissa shared:
+	- [Diversitytech - a newsletter of job, event, and speaking opportunities, and job board]( http://diversifytech.co/)
+	- [Women in Tech Slack Channel - a super vibrant network of women and non-binary folks in tech](https://witchat.github.io/)
 
 ### The Voices and Experiences of wwcode members
 - **RB109**
