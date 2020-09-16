@@ -148,6 +148,7 @@
 	- Additional Resources Melissa shared:
 	- [Diversitytech - a newsletter of job, event, and speaking opportunities, and job board]( http://diversifytech.co/)
 	- [Women in Tech Slack Channel - a super vibrant network of women and non-binary folks in tech](https://witchat.github.io/)
+- [Nancy Trinh - Capstone Graduate, job search process and current job](https://docs.google.com/document/d/1eenNZyBw-mXFyd3mE3RqVBd-ZWCcdyS7QUiAdrxkzlQ/edit?usp=sharing)
 
 ### The Voices and Experiences of wwcode members
 - **RB109**
