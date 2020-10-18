@@ -140,6 +140,8 @@
 
 - [A conversation about Problem Solving](https://docs.google.com/presentation/d/1ggBYdopt5PfSvucaRwa5IxtDPAtF5FUVOvrFv_JHepI/edit#slide=id.p) July 22, 2020 By Felicia Bacon
 
+- [Deep Work](https://docs.google.com/presentation/d/1SRKLUYpusu04LGBUHQqhATSV3Hlkq9KbFw3K3Kpp434/edit?usp=sharing) October 18, 2020 By Mandy Cheang
+
 ### wwcode Alumni Stories 🎓👏
 
 - [Juliette Sinibardy - Core Graduate, My First Weeks as a Software Engineer](https://jsinibardy.com/first-weeks-software-engineer)
