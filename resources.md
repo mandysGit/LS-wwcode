@@ -230,6 +230,26 @@
 
 👩🏽‍💻**Work place tips**
   - [Get your work recognized: Brag Document - blog article by Julia Evans](https://jvns.ca/blog/brag-documents) 
+  
+🧘🏻‍♀️**Soft Skills and Leadership**
+  - [The Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205)
+
+  - [The Five Dysfunctions of a team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+    
+  - [Why Leaders Eat Last](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1543614620)
+  
+  - [Presence](https://www.amazon.com/Presence-Bringing-Boldest-Biggest-Challenges/dp/1478930152)
+  
+  - [Non-Violent Communication](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X)
+  
+  - [Daring Greatly](https://www.amazon.com/Daring-Greatly-Courage-Vulnerable-Transforms/dp/1592408419)
+  
+  - [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+    
+  - [How to become CEO](https://www.amazon.com/How-Become-CEO-Rising-Organization/dp/0786864370) 
+
+
+  
 
 ### :movie_camera: Movies
 
