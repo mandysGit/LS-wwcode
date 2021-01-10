@@ -1,4 +1,6 @@
-# Launch School Women's Group Resources 
+# Launch School WWCODE Resources 
+WWCODE is a casual way to connect with other people from under-represented genders (women and non-binary folks) in the LS community and talk about programming and mastery-based learning; as well as share experiences, challenges, tips, and more! Women and enby students in Prep or any LS course are welcome to attend.
+
 ## Table of Contents
 1. [Tools](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#hammer_and_wrench-tools)
 2. [Podcast](https://github.com/mandysGit/LS-wwcode/blob/master/resources.md#headphones-podcast)
